@@ -1,5 +1,5 @@
 # Ola Driver Churn Analysis & Prediction
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oS5Bw1_FTtkhdSnUdlVS3gl29L_DHnZ2?usp=sharing)
 ## Project Overview
 
 This project focuses on analysing driver attrition at Ola and building a predictive model to identify drivers who are at risk of leaving the platform. The analysis combines exploratory data analysis, feature engineering, statistical validation, and machine learning to uncover the key factors influencing driver churn and provide actionable business recommendations.
