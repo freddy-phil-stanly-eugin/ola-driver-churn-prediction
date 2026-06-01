@@ -112,6 +112,14 @@ These features were designed to capture driver engagement, performance progressi
 | ROC-AUC           | 0.851 |
 | Accuracy          | 80%   |
 
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
 A SMOTE-based model was also evaluated; however, the baseline Logistic Regression model delivered superior overall performance and was therefore selected as the final solution.
 
 ---
@@ -124,6 +132,10 @@ A SMOTE-based model was also evaluated; however, the baseline Logistic Regressio
 * Churn rates peaked among drivers with approximately 7-16 months of tenure before declining among long-tenured drivers.
 * Quarterly Rating showed a strong positive relationship with Total Business Value.
 * Operational and performance-related factors exhibited stronger relationships with churn than demographic characteristics.
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
 
 ---
 
